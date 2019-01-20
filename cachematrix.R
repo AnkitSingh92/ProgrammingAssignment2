@@ -1,8 +1,8 @@
-## The first function, makeVector creates a special "matrix", which is really a list containing a function to, 
-## set the value of the vector
-## get the value of the vector
-## set the value of the inverse 
-## get the value of the inverse
+## The first function, makeCacheMatrix creates a special "matrix", which is really a list containing a function to, 
+## set the value of the martix
+## get the value of the martix
+## set the value of the martix 
+## get the value of the martix
 
 makeCacheMatrix <- function(x = matrix()) {
   i <- NULL
